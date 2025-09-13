@@ -33,8 +33,6 @@ train.pickle, valid.pickle, test.pickle
 
 labels.pickle, label_names.csv
 
-Make sure to place these in the data/ folder.
-
 ## ⚙️ Installation
 
 Create a virtual environment
